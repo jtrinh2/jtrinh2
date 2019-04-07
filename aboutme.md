@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Personal Profile
-subtitle: Why you'd want to go on a date with me
+subtitle: Okay, what do you want to know?
 ---
 
 My name is Inigo Montoya. I have the following qualities:
